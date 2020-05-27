@@ -28,7 +28,7 @@ To install matplotlib: `pip install matplotlib`
 
 ### Jupyter Notebook
 
-To intall Jupyter Notebook: `pip install notebook`
+To install Jupyter Notebook: `pip install notebook`
 
 ## File Description
 
